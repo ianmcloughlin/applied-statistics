@@ -9,3 +9,4 @@ sympy
 nose
 scikit-learn
 qiskit[visualization]
+yfinance
