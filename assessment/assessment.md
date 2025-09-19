@@ -12,7 +12,7 @@ If you have questions, ask them well before the deadline.
 
 **[Click here to submit your repository URL (ATU Login required)](https://forms.office.com/e/zAaQE2avjK)**  
 
-Create a new GitHub repository and submit its URL using the form above on or before *September 28th, 2025**.
+Create a new GitHub repository and submit its URL using the form above on or before **September 28th, 2025**.
 Work on your repository as detailed below, making regular commits and pushing them to GitHub.
 The last commit pushed to GitHub *on or before* the final deadline above will be assessed.
 
