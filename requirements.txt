@@ -5,8 +5,8 @@ statsmodels
 matplotlib
 pandas
 seaborn
-sympy
-nose
-scikit-learn
-qiskit[visualization]
-yfinance
+# sympy
+# nose
+# scikit-learn
+# qiskit[visualization]
+# yfinance
