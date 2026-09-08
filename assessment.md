@@ -10,7 +10,7 @@ You should then work consistently on your repository until the final deadline fo
 The last commit pushed to GitHub on or before the deadline will be assessed.
 
 > [!IMPORTANT]
-> [Submit Your Repository URL Here by 30 September 2026 (ATU Login required)]()  
+> [Submit Your Repository URL Here by 30 September 2026 (ATU Login required)](https://forms.cloud.microsoft/e/28QJxuNNSz)  
 > 
 > Final Deadline for Commits:  
 > <ins>**20 December 2026**</ins>  
