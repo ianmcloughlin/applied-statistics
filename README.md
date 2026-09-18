@@ -4,7 +4,7 @@
 
 - [**Read the Assessment Brief**](assessment.md)
 
-- [**Lecture Videos (ATU Login Required)**](https://atlantictu-my.sharepoint.com/:f:/g/personal/ian_mcloughlin_atu_ie/EqPifDFkwl1PjSrQJ0yLzDIB5VpCHZH0lwS3crBBGGRN0Q?e=vywgXM)
+- [**Lecture Videos (ATU Login Required)**](https://atlantictu-my.sharepoint.com/:f:/g/personal/ian_mcloughlin_atu_ie/IgCg9Z1pGPoPSoqb0mdufaSDAbIA4BrP4ugDUesQ4Z9poyc?e=SxjC4T)
 
 ## Learning Outcomes
 
